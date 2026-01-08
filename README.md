@@ -1,6 +1,6 @@
 # Yuvraj V A
 
-**Backend & Software Engineer** | AI-Integrated Systems | Cloud Architecture | Real-time Data Pipelines
+**Generative AI and Backend Engineer** | AI-Integrated Systems | Cloud Architecture | Real-time Data Pipelines
 
 ---
 
