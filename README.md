@@ -9,7 +9,7 @@
 I'm an Associate Software Engineer with expertise in backend development, cloud infrastructure, and AI-integrated systems. I build scalable REST APIs, work with distributed systems, and integrate Large Language Models into production applications.
 
 **Currently:** Exploring FastAPI, Redis caching, and RAG systems  
-**Based in:** Chennai, India
+**Based in:** Bangalore, India
 
 ---
 
