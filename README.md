@@ -161,7 +161,7 @@ distributed_systems:
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yuvrajva.vercel.app-00C7B7?style=for-the-badge)](https://yuvrajva.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvrajva6223)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajva09@gmail.com)
 
 </div>
 
